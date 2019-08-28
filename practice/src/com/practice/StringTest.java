@@ -46,7 +46,7 @@ public class StringTest {
 		
 	}
 	
-	public static void main5(String[] args) {
+	public static void main7(String[] args) {
 		
 		String s1 = new String("hai");
 		       s1 = "hello";
