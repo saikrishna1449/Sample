@@ -1,8 +1,10 @@
 package com.practice;
 
 public class StringTest {
+	public static void main(String[] args) {
+	}
 
-	public static void main1(String[] args) {
+	public static void main6(String[] args) {
 
 		String s = new String("Sai");
 		s.concat("krishna");
@@ -33,7 +35,7 @@ public class StringTest {
 
 	}
 
-	public static void main(String[] args) {
+	public static void main5(String[] args) {
 
 		
 		String s1 = "hai";
